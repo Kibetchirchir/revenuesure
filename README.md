@@ -1,27 +1,46 @@
-<b>Warning!</b> It`s only copy of <a href="http://wrapbootstrap.com/preview/WB0B30DGR">ace demo-template</a> from wrapbootstrap.
-Repo contains minified ace js/css files.
-You can read more about the license <a href="https://wrapbootstrap.com/theme/ace-responsive-admin-template-WB0B30DGR">here</a>.
+## Revenue collector
 
-<h3>I`m not developer of this theme.</h3>
+Revenue collector
 
-<h2>Twitter bootstrap 3 admin template</h2>
+# Description
 
-see example http://ace.jeka.by/
+Collect revenue from counties
 
+## Documentation
 
-Try:
-- git clone git@github.com:bopoda/ace.git
-- open ace/index.html in your desktop or mobile browser
+HTML
 
+## Setup
 
-Простой и многофункциональный Twitter bootstrap 3 шаблон для админки. Responsive дизайн.
+N/A
 
-Browsers:
-- Internet Explorer 10
-- Internet Explorer 11
-- Internet Explorer 8
-- Internet Explorer 9
-- Latest Chrome
-- Latest Firefox
-- Latest Opera
-- Latest Safari
+### Dependencies
+
+None
+
+### Getting Started
+
+N/A
+
+### Run The Service
+
+open index.html
+
+### Microservices
+
+N/A
+
+## Testing
+
+N/A
+
+## Contribute
+
+- Fork the repo
+- Create your changes
+- Test if its working and add test where possible
+- Push and raise a PR
+
+## Deployment
+
+point the ip given to infobip to the index.html
